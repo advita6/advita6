@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Advita%20Singh&fontSize=50&fontAlignY=35&desc=AI%20%7C%20Cloud%20%7C%20UI%2FUX%20Enthusiast&descAlignY=55&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Advita%20Singh&fontSize=50&fontAlignY=35&animation=twinkling" />
 </p>
 
 ## 👋 Hi, I'm Advita!
