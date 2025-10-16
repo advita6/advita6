@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Advita%20Singh&fontSize=50&color=white&animation=twinkling&gradient=rainbow" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Advita%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
 </p>
 
 
