@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=cyan-to-blue&height=200&section=header&text=Advita%20Singh&fontSize=50&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Advita%20Singh&fontSize=50&color=white&animation=twinkling&gradient=purple-to-pink" />
 </p>
 
 
@@ -51,7 +51,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=cyan-to-blue&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&gradient=purple-to-pink" />
 </p>
 
 
